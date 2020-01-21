@@ -1,6 +1,6 @@
 {
     "title": "Resume",
-    "name": "startbootstrap-resume",
+    "name": "Pogosyan Yuriy",
     "version": "5.0.8",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
@@ -11,7 +11,7 @@
         "sass",
         "html",
         "responsive",
-        "theme",
+        "",
         "template"
     ],
     "homepage": "https://startbootstrap.com/template-overviews/resume",
